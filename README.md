@@ -1,0 +1,1 @@
+This program accepts a protein string of length at most 1000 aa as input to produce the total number of different RNA strings from which the protein could have been translated, modulo 1,000,000 by not neglecting STOP codos.
